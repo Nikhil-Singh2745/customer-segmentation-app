@@ -80,7 +80,7 @@ Automatic cluster prediction with detailed persona descriptions (e.g., "Target C
 
 ## 🚀 Live Demo
 
-**[🌐 View Live Application](PASTE_YOUR_DEPLOYED_URL_HERE)**
+**[🌐 View Live Application](https://customer-segmentation-app-ge7b46vm9ye3if7pwbheya.streamlit.app/)**
 
 Experience the app in action! Click the link above to try the customer segmentation tool without any installation.
 
